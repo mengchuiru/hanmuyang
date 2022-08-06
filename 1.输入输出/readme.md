@@ -7,4 +7,4 @@ P1001,P1000,P5703,P5704,P5705,P5706,P1425,P2433,P5708,P1421,P5709,P2181,P5707,P3
 
 
 #### 思维导图
-![思维导图](c.png)
+![思维导图](https://c44bdf47ba484aa98328d13683451955.apig.cn-east-3.huaweicloudapis.com/USACO/hanmuyang/1.%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA/IO.png)

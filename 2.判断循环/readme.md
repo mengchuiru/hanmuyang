@@ -9,4 +9,4 @@ P5718,P5719,P5720,P5721,P1009,P1980,P1035,P2669,P5722,P5723,P1217,P1423,P1307,P1
 
 
 #### 思维导图
-![思维导图](韩沐阳.png)
+![思维导图](https://c44bdf47ba484aa98328d13683451955.apig.cn-east-3.huaweicloudapis.com/USACO/hanmuyang/2.%E5%88%A4%E6%96%AD%E5%BE%AA%E7%8E%AF/panduan.png)

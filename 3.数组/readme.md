@@ -6,4 +6,4 @@ P1554,P2141,P1614,P2911,P1161,P5731,P5732,P1789,1319,P1320,P1205
 
 
 #### 思维导图
-![思维导图](数组.png)
+![思维导图](https://c44bdf47ba484aa98328d13683451955.apig.cn-east-3.huaweicloudapis.com/USACO/hanmuyang/3.%E6%95%B0%E7%BB%84/%E6%95%B0%E7%BB%84.png)
